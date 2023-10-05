@@ -31,7 +31,6 @@
         "desktopsupport-0.6.0.jar": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
         "java-semver-0.9.0.jar": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
         "shims-0.9.47.jar": "8ad7e8e386b5a12f4f9fc6ac57b659f0ea9bec585781a08934b2144fb385a179",
-        "runelite-client-1.1.9-SNAPSHOT.jar": "df1d46ae7a605876111146b29e4d55c08f90ad536e906597bfddff5018d2ed05",
         "okhttp-4.10.0.jar": "7580f14fa1691206e37081ad3f92063b1603b328da0bb316f2fef02e0562e7ec",
         "commons-text-1.9.jar": "0812f284ac5dd0d617461d9a2ab6ac6811137f25122dfffd4788a4871e732d00",
         "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
@@ -39,8 +38,10 @@
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
-        "http-api-1.1.9-SNAPSHOT.jar": "a22463cb809af456fe6e4848d5b0d022bda550eb841af27328b586402be3d064",
+        "runelite-api-1.1.10-SNAPSHOT.jar": "17403cad30d57a2599ff7ae7569c89a26923e5a6e04d7e996e762346bcb366a8",
+        "runelite-jshell-1.1.10-SNAPSHOT.jar": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
+        "runescape-api-1.1.10-SNAPSHOT.jar": "264f4aeb53518d96015f69676677e17a753d60211823423ef6de9ccbdeede447",
         "rlawt-1.4.jar": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
@@ -49,7 +50,6 @@
         "okio-jvm-3.0.0.jar": "be64a0cc1f28ea9cd5c970dd7e7557af72c808d738c495b397bf897c9921e907",
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "lwjgl-opencl-3.3.2.jar": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-        "runelite-api-1.1.9-SNAPSHOT.jar": "954d61405cd25ec3e7603dbde2ee689d358bd389a84ee91df329f3d7e93d7797",
         "commons-io-2.8.0.jar": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
         "reactive-streams-1.0.3.jar": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865",
         "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
@@ -86,18 +86,18 @@
         "pf4j-update-2.3.0.jar": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45",
         "lwjgl-3.3.2-natives-linux.jar": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
         "RoaringBitmap-0.9.47.jar": "a34c9930fbc7d84e5723b1c7ce483fcfd028e3fa490cb62d7ade95bc851b099f",
+        "http-api-1.1.10-SNAPSHOT.jar": "698d67173e1b62e8a78945e1711cdd4f784cabee7955f6b77a5931918454e52d",
         "lwjgl-3.3.2-natives-windows.jar": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "jnativehook-2.2.2.jar": "2c7904423bc680af02d9ea9557ae233c35199e302d072773a9d0304b568acd41",
-        "runescape-api-1.1.9-SNAPSHOT.jar": "9efa03e058bb6549a63c79ec97cfadc8b6a6d6e29212c53de9f465fe1af7fd34",
         "lwjgl-opengl-3.3.2-natives-macos.jar": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
         "lwjgl-opengl-3.3.2-natives-windows.jar": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
         "kotlin-stdlib-common-1.6.21.jar": "183bec59cd9f3a14957b190e8c879cf1194bd1f106b0a7b6e1cbb8790d242363",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
+        "runelite-client-1.1.10-SNAPSHOT.jar": "3ad1d55b2255c8edef956fecfd3eea6d3357fe4c99b704138eb33257fb617783",
         "gluegen-rt-2.4.0-rc-20220318.jar": "ba22a3338a3dea346801f5ae4a0341fc13f59bf4b02d54d575a6f0399a30e8b2",
         "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
-        "runelite-jshell-1.1.9-SNAPSHOT.jar": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33",
         "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5"
     },
     "launcherJvm17MacArguments": [
@@ -166,30 +166,30 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "1.1.9-SNAPSHOT",
+    "projectVersion": "1.1.10-SNAPSHOT",
     "artifacts": [
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.9-SNAPSHOT.jar",
-            "size": 136166,
-            "name": "runescape-api-1.1.9-SNAPSHOT.jar",
-            "hash": "9efa03e058bb6549a63c79ec97cfadc8b6a6d6e29212c53de9f465fe1af7fd34"
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.10-SNAPSHOT.jar",
+            "size": 136184,
+            "name": "runescape-api-1.1.10-SNAPSHOT.jar",
+            "hash": "264f4aeb53518d96015f69676677e17a753d60211823423ef6de9ccbdeede447"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.9-SNAPSHOT.jar",
-            "size": 1469389,
-            "name": "runelite-api-1.1.9-SNAPSHOT.jar",
-            "hash": "954d61405cd25ec3e7603dbde2ee689d358bd389a84ee91df329f3d7e93d7797"
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.10-SNAPSHOT.jar",
+            "size": 1470594,
+            "name": "runelite-api-1.1.10-SNAPSHOT.jar",
+            "hash": "17403cad30d57a2599ff7ae7569c89a26923e5a6e04d7e996e762346bcb366a8"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.9-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.10-SNAPSHOT.jar",
             "size": 97272,
-            "name": "http-api-1.1.9-SNAPSHOT.jar",
-            "hash": "a22463cb809af456fe6e4848d5b0d022bda550eb841af27328b586402be3d064"
+            "name": "http-api-1.1.10-SNAPSHOT.jar",
+            "hash": "698d67173e1b62e8a78945e1711cdd4f784cabee7955f6b77a5931918454e52d"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.9-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.10-SNAPSHOT.jar",
             "size": 22950,
-            "name": "runelite-jshell-1.1.9-SNAPSHOT.jar",
+            "name": "runelite-jshell-1.1.10-SNAPSHOT.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
         },
         {
@@ -619,10 +619,10 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://cdn.discordapp.com/attachments/1076297423200202784/1157101317941104640/runelite-client-1.1.9-SNAPSHOT.jar",
-            "size": 16218631,
-            "name": "runelite-client-1.1.9-SNAPSHOT.jar",
-            "hash": "df1d46ae7a605876111146b29e4d55c08f90ad536e906597bfddff5018d2ed05"
+            "path": "https://cdn.discordapp.com/attachments/1076297423200202784/1159428601817595954/runelite-client-1.1.10-SNAPSHOT_C1.jar",
+            "size": 16221139,
+            "name": "runelite-client-1.1.10-SNAPSHOT.jar",
+            "hash": "3ad1d55b2255c8edef956fecfd3eea6d3357fe4c99b704138eb33257fb617783"
         }
     ]
 }
