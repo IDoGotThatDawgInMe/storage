@@ -1,6 +1,7 @@
 {
     "clientJvm17Arguments": [
         "-noverify",
+        "-profile",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -102,6 +103,7 @@
     },
     "launcherJvm17MacArguments": [
         "-noverify",
+        "-profile",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -111,6 +113,7 @@
     ],
     "clientJvmArguments": [
         "-noverify",
+        "-profile",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -150,6 +153,7 @@
     ],
     "clientJvm9Arguments": [
         "-noverify",
+        "-profile",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
