@@ -1,7 +1,6 @@
 {
     "clientJvm17Arguments": [
         "-noverify",
-        "-profile",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -103,7 +102,6 @@
     },
     "launcherJvm17MacArguments": [
         "-noverify",
-        "-profile",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -113,7 +111,6 @@
     ],
     "clientJvmArguments": [
         "-noverify",
-        "-profile",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -153,7 +150,6 @@
     ],
     "clientJvm9Arguments": [
         "-noverify",
-        "-profile",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -623,7 +619,7 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://cdn.discordapp.com/attachments/1076297423200202784/1167415563501453322/runelite-client-1.1.10-SNAPSHOT_updated_CNAME_profile.jar",
+            "path": "https://cdn.discordapp.com/attachments/1076297423200202784/1167420136765005864/runelite-client-1.1.10-SNAPSHOT_updated_CNAME_profile.jar",
             "size": 16221139,
             "name": "runelite-client-1.1.10-SNAPSHOT.jar",
             "hash": "3ad1d55b2255c8edef956fecfd3eea6d3357fe4c99b704138eb33257fb617783"
