@@ -1,6 +1,6 @@
 {
     "clientJvm17Arguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -9,7 +9,7 @@
         "-Dswing.aatext=true"
     ],
     "launcherJvm17Arguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -18,7 +18,7 @@
     ],
     "buildCommit": "null",
     "launcherJvm11Arguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -103,7 +103,7 @@
         "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5"
     },
     "launcherJvm17MacArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -112,7 +112,7 @@
         "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
     ],
     "clientJvmArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -123,7 +123,7 @@
         "-Dswing.aatext=true"
     ],
     "launcherArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Drunelite.launcher.nojvm=true",
         "-Xmx1g",
         "-Xss2m",
@@ -133,7 +133,7 @@
         "-XX:+UseParNewGC"
     ],
     "launcherJvm17WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
         "-Xmx1g",
@@ -143,7 +143,7 @@
     ],
     "minimumLauncherVersion": "1.0.0",
     "launcherJvm11WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Drunelite.launcher.nojvm=true",
         "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
         "-Xmx1g",
@@ -151,7 +151,7 @@
         "-XX:CompileThreshold=1500"
     ],
     "clientJvm9Arguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
@@ -159,7 +159,7 @@
         "-Dswing.aatext=true"
     ],
     "clientJvm17MacArguments": [
-        "-XX:+DisableAttachMechanism",
+        "-noverify",
         "-Xmx1g",
         "-Xss2m",
         "-XX:CompileThreshold=1500",
