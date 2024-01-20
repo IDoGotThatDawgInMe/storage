@@ -171,25 +171,25 @@
     "projectVersion": "1.1.11-SNAPSHOT",
     "artifacts": [
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.11-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.12-SNAPSHOT.jar",
             "size": 136148,
             "name": "runescape-api-1.1.11-SNAPSHOT.jar",
             "hash": "13189140952c7843066e270a5e529c367e96fb8da9a65e5c86049b89a5c858c2"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.11-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.12-SNAPSHOT.jar",
             "size": 1470624,
             "name": "runelite-api-1.1.11-SNAPSHOT.jar",
             "hash": "e3f8cd7decc6769892c59d5839f96c626ea8845a3ba5db6a2c6c48f30446b767"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.11-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.12-SNAPSHOT.jar",
             "size": 97272,
             "name": "http-api-1.1.11-SNAPSHOT.jar",
             "hash": "8abc5d950e9946388a7c56bde2589d5b892c4068095137767d99877645f437fb"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.11-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.12-SNAPSHOT.jar",
             "size": 22950,
             "name": "runelite-jshell-1.1.11-SNAPSHOT.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
