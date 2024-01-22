@@ -35,13 +35,13 @@
         "commons-text-1.9.jar": "0812f284ac5dd0d617461d9a2ab6ac6811137f25122dfffd4788a4871e732d00",
         "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
+        "lwjgl-opengl-3.3.2-natives-windows-arm64.jar": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
-        "runelite-api-1.1.10-SNAPSHOT.jar": "17403cad30d57a2599ff7ae7569c89a26923e5a6e04d7e996e762346bcb366a8",
-        "runelite-jshell-1.1.10-SNAPSHOT.jar": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33",
+        "runelite-jshell-1.1.11-SNAPSHOT.jar": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-        "runescape-api-1.1.10-SNAPSHOT.jar": "264f4aeb53518d96015f69676677e17a753d60211823423ef6de9ccbdeede447",
+        "runescape-api-1.1.11-SNAPSHOT.jar": "13189140952c7843066e270a5e529c367e96fb8da9a65e5c86049b89a5c858c2",
         "rlawt-1.4.jar": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
@@ -60,6 +60,7 @@
         "jocl-1.0-macos-arm64.jar": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
         "kotlin-stdlib-jdk8-1.5.31.jar": "b548f7767aacf029d2417e47440742bd6d3ebede19b60386e23554ce5c4c5fdc",
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
+        "runelite-api-1.1.11-SNAPSHOT.jar": "e3f8cd7decc6769892c59d5839f96c626ea8845a3ba5db6a2c6c48f30446b767",
         "lwjgl-opengl-3.3.2-natives-macos-arm64.jar": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "socket.io-client-2.1.0.jar": "ccc90242ba349719c3e7c333626e4506032520de3b52af4ac011cef028977d6e",
@@ -73,6 +74,7 @@
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
         "protobuf-javalite-3.21.12.jar": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40",
         "miglayout-3.7.4.jar": "f3bf5ab4041767da532e11e78a49a183da499d1a54ba539232d833b75f965667",
+        "lwjgl-3.3.2-natives-windows-arm64.jar": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
         "lwjgl-3.3.2-natives-macos.jar": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
@@ -86,16 +88,16 @@
         "pf4j-update-2.3.0.jar": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45",
         "lwjgl-3.3.2-natives-linux.jar": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
         "RoaringBitmap-0.9.47.jar": "a34c9930fbc7d84e5723b1c7ce483fcfd028e3fa490cb62d7ade95bc851b099f",
-        "http-api-1.1.10-SNAPSHOT.jar": "698d67173e1b62e8a78945e1711cdd4f784cabee7955f6b77a5931918454e52d",
+        "runelite-client-1.1.11-SNAPSHOT.jar": "73b8757a99e35d7af916ac5e2e13615f1094e7b83852f16bd17b4acdccf0a348",
         "lwjgl-3.3.2-natives-windows.jar": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "jnativehook-2.2.2.jar": "2c7904423bc680af02d9ea9557ae233c35199e302d072773a9d0304b568acd41",
+        "http-api-1.1.11-SNAPSHOT.jar": "8abc5d950e9946388a7c56bde2589d5b892c4068095137767d99877645f437fb",
         "lwjgl-opengl-3.3.2-natives-macos.jar": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
         "lwjgl-opengl-3.3.2-natives-windows.jar": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
         "kotlin-stdlib-common-1.6.21.jar": "183bec59cd9f3a14957b190e8c879cf1194bd1f106b0a7b6e1cbb8790d242363",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
-        "runelite-client-1.1.10-SNAPSHOT.jar": "3ad1d55b2255c8edef956fecfd3eea6d3357fe4c99b704138eb33257fb617783",
         "gluegen-rt-2.4.0-rc-20220318.jar": "ba22a3338a3dea346801f5ae4a0341fc13f59bf4b02d54d575a6f0399a30e8b2",
         "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
         "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5"
@@ -166,30 +168,30 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "1.1.10-SNAPSHOT",
+    "projectVersion": "1.1.11-SNAPSHOT",
     "artifacts": [
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.10-SNAPSHOT.jar",
-            "size": 136184,
-            "name": "runescape-api-1.1.10-SNAPSHOT.jar",
-            "hash": "264f4aeb53518d96015f69676677e17a753d60211823423ef6de9ccbdeede447"
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.12-SNAPSHOT.jar",
+            "size": 136148,
+            "name": "runescape-api-1.1.11-SNAPSHOT.jar",
+            "hash": "13189140952c7843066e270a5e529c367e96fb8da9a65e5c86049b89a5c858c2"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.10-SNAPSHOT.jar",
-            "size": 1470594,
-            "name": "runelite-api-1.1.10-SNAPSHOT.jar",
-            "hash": "17403cad30d57a2599ff7ae7569c89a26923e5a6e04d7e996e762346bcb366a8"
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.12-SNAPSHOT.jar",
+            "size": 1470624,
+            "name": "runelite-api-1.1.11-SNAPSHOT.jar",
+            "hash": "e3f8cd7decc6769892c59d5839f96c626ea8845a3ba5db6a2c6c48f30446b767"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.10-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.12-SNAPSHOT.jar",
             "size": 97272,
-            "name": "http-api-1.1.10-SNAPSHOT.jar",
-            "hash": "698d67173e1b62e8a78945e1711cdd4f784cabee7955f6b77a5931918454e52d"
+            "name": "http-api-1.1.11-SNAPSHOT.jar",
+            "hash": "8abc5d950e9946388a7c56bde2589d5b892c4068095137767d99877645f437fb"
         },
         {
-            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.10-SNAPSHOT.jar",
+            "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.12-SNAPSHOT.jar",
             "size": 22950,
-            "name": "runelite-jshell-1.1.10-SNAPSHOT.jar",
+            "name": "runelite-jshell-1.1.11-SNAPSHOT.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
         },
         {
@@ -209,12 +211,6 @@
             "size": 241622,
             "name": "gson-2.8.5.jar",
             "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81"
-        },
-        {
-            "path": "https://repo.maven.apache.org/maven2/org/roaringbitmap/RoaringBitmap/0.9.47/RoaringBitmap-0.9.47.jar",
-            "size": 443778,
-            "name": "RoaringBitmap-0.9.47.jar",
-            "hash": "a34c9930fbc7d84e5723b1c7ce483fcfd028e3fa490cb62d7ade95bc851b099f"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/com/google/inject/guice/5.0.1/guice-5.0.1.jar",
@@ -457,6 +453,12 @@
             "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd"
         },
         {
+            "path": "https://repo.maven.apache.org/maven2/org/lwjgl/lwjgl-opengl/3.3.2/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
+            "size": 83132,
+            "name": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
+            "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0"
+        },
+        {
             "path": "https://repo.maven.apache.org/maven2/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2.jar",
             "size": 786196,
             "name": "lwjgl-3.3.2.jar",
@@ -491,6 +493,18 @@
             "size": 164993,
             "name": "lwjgl-3.3.2-natives-windows.jar",
             "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/lwjgl/lwjgl/3.3.2/lwjgl-3.3.2-natives-windows-arm64.jar",
+            "size": 133200,
+            "name": "lwjgl-3.3.2-natives-windows-arm64.jar",
+            "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/roaringbitmap/RoaringBitmap/0.9.47/RoaringBitmap-0.9.47.jar",
+            "size": 443778,
+            "name": "RoaringBitmap-0.9.47.jar",
+            "hash": "a34c9930fbc7d84e5723b1c7ce483fcfd028e3fa490cb62d7ade95bc851b099f"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/com/miglayout/miglayout/3.7.4/miglayout-3.7.4.jar",
@@ -539,12 +553,6 @@
             "size": 454201,
             "name": "logback-core-1.2.9.jar",
             "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58"
-        },
-        {
-            "path": "https://repo.maven.apache.org/maven2/org/roaringbitmap/shims/0.9.47/shims-0.9.47.jar",
-            "size": 2551,
-            "name": "shims-0.9.47.jar",
-            "hash": "8ad7e8e386b5a12f4f9fc6ac57b659f0ea9bec585781a08934b2144fb385a179"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
@@ -607,6 +615,12 @@
             "hash": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
         },
         {
+            "path": "https://repo.maven.apache.org/maven2/org/roaringbitmap/shims/0.9.47/shims-0.9.47.jar",
+            "size": 2551,
+            "name": "shims-0.9.47.jar",
+            "hash": "8ad7e8e386b5a12f4f9fc6ac57b659f0ea9bec585781a08934b2144fb385a179"
+        },
+        {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.21/kotlin-stdlib-common-1.6.21.jar",
             "size": 200631,
             "name": "kotlin-stdlib-common-1.6.21.jar",
@@ -619,10 +633,10 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://cdn.discordapp.com/attachments/1076297423200202784/1162533957380886628/runelite-client-1.1.10-SNAPSHOT_antiBanUpdate.jar",
-            "size": 16221139,
-            "name": "runelite-client-1.1.10-SNAPSHOT.jar",
-            "hash": "3ad1d55b2255c8edef956fecfd3eea6d3357fe4c99b704138eb33257fb617783"
+            "path": "https://cdn.discordapp.com/attachments/1076297423200202784/1198212232782286938/runelite-client-1.1.12-SNAPSHOT.jar",
+            "size": 16207608,
+            "name": "runelite-client-1.1.11-SNAPSHOT.jar",
+            "hash": "d4c818eac4c41cc03eb48da14f5d158a4e0d08f85614a146770064ea201f541f"
         }
     ]
 }
