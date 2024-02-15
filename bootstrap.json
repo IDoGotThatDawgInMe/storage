@@ -174,19 +174,19 @@
             "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runescape-api-1.1.12-SNAPSHOT.jar",
             "size": 136148,
             "name": "runescape-api-1.1.11-SNAPSHOT.jar",
-            "hash": "13189140952c7843066e270a5e529c367e96fb8da9a65e5c86049b89a5c858c2"
+            "hash": "1a124f09ea86c70b711c1f6d291f5f117d7fc9b0ff702732c61879f605f21463"
         },
         {
             "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.12-SNAPSHOT.jar",
             "size": 1470624,
             "name": "runelite-api-1.1.11-SNAPSHOT.jar",
-            "hash": "e3f8cd7decc6769892c59d5839f96c626ea8845a3ba5db6a2c6c48f30446b767"
+            "hash": "65a517c65e1dba11d1cfe51ac7d0454388247c559edf1d62fabbbfd6bf8b1548"
         },
         {
             "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.12-SNAPSHOT.jar",
             "size": 97272,
             "name": "http-api-1.1.11-SNAPSHOT.jar",
-            "hash": "8abc5d950e9946388a7c56bde2589d5b892c4068095137767d99877645f437fb"
+            "hash": "afb45cd9127fd9b39976c5630a416919328555221a54f82d7f40986babd6c121"
         },
         {
             "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-jshell-1.1.12-SNAPSHOT.jar",
@@ -636,7 +636,7 @@
             "path": "https://github.com/IDoGotThatDawgInMe/storage/raw/main/client.jar",
             "size": 16207608,
             "name": "runelite-client-1.1.11-SNAPSHOT.jar",
-            "hash": "d4c818eac4c41cc03eb48da14f5d158a4e0d08f85614a146770064ea201f541f"
+            "hash": "65d74fea0e711f40654d987457bdee5e44557dfe4302ac26907d44872da50a04"
         }
     ]
 }
