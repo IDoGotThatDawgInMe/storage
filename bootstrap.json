@@ -183,7 +183,7 @@
             "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/runelite-api-1.1.12-SNAPSHOT.jar",
             "size": 1504848,
             "name": "runelite-api-1.1.12-SNAPSHOT.jar",
-            "hash": "b110dabdc291fc24f7c8345cd649137c0b740127b6443cd099a0ac88c7fa8c30"
+            "hash": "1104c4f293bef4140473ae330eafe814785f1cc6c4590878b4e3ed84a31e0ad9"
         },
         {
             "path": "https://squire-hosting.s3.eu-west-1.amazonaws.com/antiban/http-api-1.1.12-SNAPSHOT.jar",
@@ -657,7 +657,7 @@
             "path": "https://github.com/IDoGotThatDawgInMe/storage/raw/main/client.jar",
             "size": 16182523,
             "name": "runelite-client-1.1.12-SNAPSHOT.jar",
-            "hash": "5421479f5892e4eadd323da171b45269dd8af72e09662a5d66588d317aeaa2b1"
+            "hash": "4656e3124ebee306576d603b179f8e742cc97b033ee68227bafb6c808d918618"
         }
     ]
 }
